@@ -1,0 +1,5 @@
+- Hi, I’m @yipyipfrog
+- I work as a junior Fullstack Engineer 
+- I’m interested in finances, technology, web2 + web3
+- I’m currently learning more about React
+- How to reach me: yipyipfrog+githubcontact@pm.me
